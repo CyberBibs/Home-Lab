@@ -34,7 +34,7 @@ The network diagram below illustrates the configuration and interaction between 
 
 ## Components
 ### Virtualization Platform
-- **VMware Workstation 17 Pro:** Acts as the hypervisor hosting all other virtual machines.
+- **VMware Workstation 17 Pro:** Acts as the hypervisor hosting all other virtual machines/servers.
 
 ### Network Security
 - **pfSense Firewall:**
@@ -47,7 +47,7 @@ The network diagram below illustrates the configuration and interaction between 
   - Deployed as the attack machine for security testing.
 
 ### Network Management
-- **Windows Server 2019 as a Domain Controller:**
+- **Windows Server 2022 as the Domain Controller:**
   - Manages user authentication and domain management.
 - **Windows 10 Desktops:**
   - Configured for typical workstation operations within the network.
