@@ -64,7 +64,7 @@ The network diagram below illustrates the configuration and interaction between 
 
 2. **Setup and Configuration of pfSense:**
    - Install pfSense on a VM to function as a dedicated firewall.
-   - **Hardware Settings:** Add 5 additional network adapters to support connectivity for other machines administered by the pfSense machine.
+   - **Hardware Settings:** I set the RAM memory to 2gb and created 5 custom network adapters. This adapters will be use to support connectivity for other machines administered by the         pfSense machine.
    - **Network Configuration:** Assign custom virtual networks to the network adapters.
 
      <img src="Images/pfsense1.png" alt="Initial Setup of Network Interfaces" width="500">
