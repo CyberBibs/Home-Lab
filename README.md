@@ -19,7 +19,7 @@ A Homelab is a personal lab environment used to learn and experiment with differ
 - **Hypervisor** - VMWare
 - **Firewall** - pfSense
 - **Attacker** - Kali Linux
-- **IDS** - Security Onion
+- **Intrution Detection System(IDS)** - Security Onion
 - **SIEM** - Splunk
 - **Domain Controller** - Windows Active Directory
 - **Vulnerable Machines** - Ubuntu, Windows
