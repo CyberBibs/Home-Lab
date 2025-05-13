@@ -16,11 +16,11 @@ This project demonstrates the setup of a cybersecurity homelab focused on monito
 A Homelab is a personal lab environment used to learn and experiment with different technologies in a controlled setting. This homelab is designed to explore monitoring and security practices using advanced configurations and custom setups.
 
 ## Tools Used
-- **Attacker** - Kali Linux
+- **Hypervisor** - VMWare
 - **Firewall** - pfSense
+- **Attacker** - Kali Linux
 - **IDS** - Security Onion
 - **SIEM** - Splunk
-- **Hypervisor** - VMWare
 - **Domain Controller** - Windows Active Directory
 - **Vulnerable Machines** - Ubuntu, Windows
 
