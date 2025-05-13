@@ -7,8 +7,8 @@ This project demonstrates the setup of a cybersecurity homelab focused on monito
 <p align="center">
   <img src="https://www.pfsense.org/images/logo.png" alt="pfSense Logo" style="width: 200px; margin: 10px;"/>
   <img src="https://securityonionsolutions.com/img/SecurityOnionSolutionsLogo.png" alt="Security Onion Logo" style="width: 200px; margin: 10px;"/>
-  <img src="Images/splunk-cropped.png" alt="Splunk Logo" style="width: 200px; margin: 10px;"/>
-  <img src="Images/kali-cropped.png" alt="Kali Linux Logo" style="width: 200px; margin: 10px;"/>
+  <img src="images/splunk-cropped.png" alt="Splunk Logo" style="width: 200px; margin: 10px;"/>
+  <img src="images/kali-cropped.png" alt="Kali Linux Logo" style="width: 200px; margin: 10px;"/>
 </p>
 
 
