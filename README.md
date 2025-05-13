@@ -60,6 +60,7 @@ The network diagram below illustrates the configuration and interaction between 
 
 1. **Installation of VMware Workstation:**
    - Install VMware Workstation 17 Pro to serve as the platform for all virtual machines.
+     <img src="images/VMWare1.png" alt="Installing VMWare" width="500">
 
 2. **Setup and Configuration of pfSense:**
    - Install pfSense on a VM to function as a dedicated firewall.
