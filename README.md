@@ -2,11 +2,11 @@
 
 This project demonstrates the setup of a cybersecurity homelab focused on monitoring and detecting logs and alerts with a variety of tools and technologies.
 
-`#Cybersecurity` `#Homelab` `#Monitoring` `#Splunk` `#VMware` `#KaliLinux` `#pfSense` `#SecurityOnion` `#WindowsServer2019` `#Windows10`
+`#Cybersecurity` `#Homelab` `#Monitoring` `#Splunk` `#VMware` `#KaliLinux` `#pfSense` `#SecurityOnion` `#WindowsServer2022` `#Windows10`
 
 <p align="center">
-  <img src="https://www.pfsense.org/images/logo.png" alt="pfSense Logo" style="width: 200px; margin: 10px;"/>
-  <img src="https://securityonionsolutions.com/img/SecurityOnionSolutionsLogo.png" alt="Security Onion Logo" style="width: 200px; margin: 10px;"/>
+  <img src="images/PfSenselogo.png" alt="PfSense Logo" style="width: 200px; margin: 10px;"/>
+  <img src="images/onion.png" alt="Security Onion Logo" style="width: 200px; margin: 10px;"/>
   <img src="images/splunk-cropped.png" alt="Splunk Logo" style="width: 200px; margin: 10px;"/>
   <img src="images/kali-cropped.png" alt="Kali Linux Logo" style="width: 200px; margin: 10px;"/>
 </p>
